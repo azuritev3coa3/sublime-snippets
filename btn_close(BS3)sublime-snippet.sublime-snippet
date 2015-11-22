@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<button type="button" class="${1:btn btn-default}" data-dismiss="${2:modal}">${3:caption}</button>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>mdl:btn</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
